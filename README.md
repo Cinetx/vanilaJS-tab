@@ -1,1 +1,1 @@
-# vanilaJS-tab
+Табы на ванильном JavaScript
